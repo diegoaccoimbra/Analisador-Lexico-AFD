@@ -1,5 +1,5 @@
-# Compiladores-Atividade-1
-Atividade de Implementação de um analisador léxico a partir de um AFD que aceita constantes numéricas no padrão definido.
+# Analisador Léxico
+Implementação de um analisador léxico com um AFD que aceita constantes numéricas no padrão definido para a disciplina de Compiladores.
 
 ## Especificações:
 - O AFD deve aceitar ou rejeitar e ainda imprimir o lexema (quando for o caso).
